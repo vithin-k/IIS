@@ -41,7 +41,7 @@ namespace enable_ManageIIS
             InitializeComponent();
             txtProjectName.KeyPress += OnKeyPress;
             txtUserpwd.Properties.UseSystemPasswordChar = true;
-            txtComputerName.Text = Dns.GetHostName().ToUpper();
+           // txtComputerName.Text = Dns.GetHostName().ToUpper();
             LogEvent($"Application Saral IIS Configuration Launched");
             LoadDataFromRegsitry();
 
@@ -227,10 +227,9 @@ namespace enable_ManageIIS
         }
         private  void btnCreate_project_Click(object sender, EventArgs e)
         {
-            this.Cursor = Cursors.WaitCursor;
+            this.Cursor = Cursors.WaitCursor;                     
             if (validate())
             {
-
                 projectName = txtProjectName.Text;
                 IISPath = txtProjectPath.Text + '\\';
                 IISProjectPath = IISPath + projectName;
@@ -246,7 +245,6 @@ namespace enable_ManageIIS
                     LogEvent($"Error downloading or extracting ZIP file: {ex.Message}", true); // Log error
                     MessageBox.Show($"Error downloading or extracting ZIP file: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
-
                 // Create JSON file
                 string server = cmbServer.Text;
                 string fileName = cmbComapny.Text;
@@ -466,6 +464,11 @@ namespace enable_ManageIIS
         }
         private bool validate()
         {
+            if(radioGroup1.SelectedIndex !=0)
+            {
+                return true;
+            }
+
             if(!CheckForInternetConnection())
             {
                 Common.ShowMessageBox("Please Check Internet Connection", "Internet Information Services");
@@ -937,13 +940,18 @@ namespace enable_ManageIIS
         }
         private void txtUserpwd_Leave(object sender, EventArgs e)
         {
-            if (cmbServer.Text.Trim() != string.Empty)
+            if (radioGroup1.SelectedIndex != 0)
             {
-                LoadDataBase();
+                if (cmbServer.Text.Trim() != string.Empty)
+                {
+                    LoadDataBase();
+                }
             }
         }
         private void cmbComapny_SelectedIndexChanged(object sender, EventArgs e)
         {
+            if (radioGroup1.SelectedIndex != 0)
+                return;
             Cursor = Cursors.WaitCursor;
             if (cmbComapny.EditValue == null)
             {
@@ -1222,6 +1230,40 @@ namespace enable_ManageIIS
         private void txtProjectPath_EditValueChanged(object sender, EventArgs e)
         {
             tooltipPath.SetToolTip(txtProjectPath, txtProjectPath.Text);
+        }
+
+        private void radioGroup1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if(radioGroup1.SelectedIndex == 2)
+            {
+                openFileDialog1.ShowDialog();
+                openFileDialog1.Filter = ".json";
+                //LoadJsonData();
+                return;
+            }
+            ClearControls();
+            cmbServer.EditValue = "";
+            cmbServer.ShowPopup();
+            if (radioGroup1.SelectedIndex !=0)
+            {
+                txtCompanyId.Enabled = true;
+                txtCompanyId.ReadOnly = false;
+            }
+            else
+            {
+                txtCompanyId.Enabled = false;
+                txtCompanyId.ReadOnly = true;
+            }
+        }
+
+        private void LoadJsonData()
+        {
+           //
+        }
+
+        private void frmIISManager_Load(object sender, EventArgs e)
+        {
+            lblCheckUpdates.Visible = false;
         }
     }
 }

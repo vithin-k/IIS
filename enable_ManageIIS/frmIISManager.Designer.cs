@@ -29,15 +29,13 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            this.splashScreenManager1 = new DevExpress.XtraSplashScreen.SplashScreenManager();
+            DevExpress.XtraSplashScreen.SplashScreenManager splashScreenManager1 = new DevExpress.XtraSplashScreen.SplashScreenManager(this, null, true, true);
             this.progressPanel1 = new DevExpress.XtraWaitForm.ProgressPanel();
             this.tlpProjectDetails = new System.Windows.Forms.TableLayoutPanel();
             this.txtCompanyId = new Relyon.Controls.NumericTextBox();
             this.lblCloudId = new DevExpress.XtraEditors.LabelControl();
-            this.txtComputerName = new System.Windows.Forms.TextBox();
             this.lblProjectNameReq = new DevExpress.XtraEditors.LabelControl();
             this.lblCloudIdReq = new DevExpress.XtraEditors.LabelControl();
-            this.lblSystemName = new DevExpress.XtraEditors.LabelControl();
             this.lblInstanceName = new DevExpress.XtraEditors.LabelControl();
             this.lblSqlUserName = new DevExpress.XtraEditors.LabelControl();
             this.txtUserName = new Relyon.Controls.RSXTextBox();
@@ -61,12 +59,14 @@
             this.tlpLinks = new System.Windows.Forms.TableLayoutPanel();
             this.lblCheckUpdates = new System.Windows.Forms.LinkLabel();
             this.lblCheckPreRequsistes = new System.Windows.Forms.LinkLabel();
+            this.radioGroup1 = new DevExpress.XtraEditors.RadioGroup();
             this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
             this.imageList1 = new System.Windows.Forms.ImageList(this.components);
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
             this.lblCaption = new Relyon.Controls.RSXLabel();
             this.tooltipPath = new System.Windows.Forms.ToolTip(this.components);
+            this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.tlpProjectDetails.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.txtCompanyId.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtUserName.Properties)).BeginInit();
@@ -78,6 +78,7 @@
             this.tlpProjectBtn.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.txtIpAddress.Properties)).BeginInit();
             this.tlpLinks.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.radioGroup1.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.tableLayoutPanel2.SuspendLayout();
             this.SuspendLayout();
@@ -102,10 +103,8 @@
             this.tlpProjectDetails.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 246F));
             this.tlpProjectDetails.Controls.Add(this.txtCompanyId, 2, 5);
             this.tlpProjectDetails.Controls.Add(this.lblCloudId, 0, 5);
-            this.tlpProjectDetails.Controls.Add(this.txtComputerName, 2, 0);
             this.tlpProjectDetails.Controls.Add(this.lblProjectNameReq, 1, 1);
             this.tlpProjectDetails.Controls.Add(this.lblCloudIdReq, 1, 4);
-            this.tlpProjectDetails.Controls.Add(this.lblSystemName, 0, 0);
             this.tlpProjectDetails.Controls.Add(this.lblInstanceName, 0, 1);
             this.tlpProjectDetails.Controls.Add(this.lblSqlUserName, 0, 2);
             this.tlpProjectDetails.Controls.Add(this.txtUserName, 2, 2);
@@ -125,6 +124,7 @@
             this.tlpProjectDetails.Controls.Add(this.lblIpRequired, 1, 8);
             this.tlpProjectDetails.Controls.Add(this.txtIpAddress, 2, 8);
             this.tlpProjectDetails.Controls.Add(this.tlpLinks, 0, 9);
+            this.tlpProjectDetails.Controls.Add(this.radioGroup1, 0, 0);
             this.tlpProjectDetails.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tlpProjectDetails.Location = new System.Drawing.Point(4, 104);
             this.tlpProjectDetails.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
@@ -155,9 +155,6 @@
             this.txtCompanyId.InitialString = "";
             this.txtCompanyId.Location = new System.Drawing.Point(197, 153);
             this.txtCompanyId.Name = "txtCompanyId";
-            // 
-            // 
-            // 
             this.txtCompanyId.Properties.Appearance.Font = new System.Drawing.Font("Verdana", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtCompanyId.Properties.Appearance.Options.UseFont = true;
             this.txtCompanyId.Properties.Appearance.Options.UseTextOptions = true;
@@ -166,7 +163,7 @@
             this.txtCompanyId.Properties.Mask.MaskType = DevExpress.XtraEditors.Mask.MaskType.Numeric;
             this.txtCompanyId.Properties.Mask.UseMaskAsDisplayFormat = true;
             this.txtCompanyId.Properties.MaxLength = 14;
-            this.txtCompanyId.Size = new System.Drawing.Size(240, 24);
+            this.txtCompanyId.Size = new System.Drawing.Size(240, 20);
             this.txtCompanyId.SupressModifiedState = false;
             this.txtCompanyId.TabIndex = 65;
             // 
@@ -180,20 +177,6 @@
             this.lblCloudId.Size = new System.Drawing.Size(171, 24);
             this.lblCloudId.TabIndex = 27;
             this.lblCloudId.Text = "Cloud ID";
-            // 
-            // txtComputerName
-            // 
-            this.txtComputerName.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.txtComputerName.Enabled = false;
-            this.txtComputerName.Font = new System.Drawing.Font("Verdana", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtComputerName.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.txtComputerName.Location = new System.Drawing.Point(197, 2);
-            this.txtComputerName.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.txtComputerName.Name = "txtComputerName";
-            this.txtComputerName.ReadOnly = true;
-            this.txtComputerName.Size = new System.Drawing.Size(240, 26);
-            this.txtComputerName.TabIndex = 16;
-            this.txtComputerName.TabStop = false;
             // 
             // lblProjectNameReq
             // 
@@ -214,16 +197,6 @@
             this.lblCloudIdReq.Size = new System.Drawing.Size(9, 24);
             this.lblCloudIdReq.TabIndex = 38;
             this.lblCloudIdReq.Text = "*";
-            // 
-            // lblSystemName
-            // 
-            this.lblSystemName.Appearance.Font = new System.Drawing.Font("Verdana", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSystemName.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.lblSystemName.Location = new System.Drawing.Point(3, 3);
-            this.lblSystemName.Name = "lblSystemName";
-            this.lblSystemName.Size = new System.Drawing.Size(173, 24);
-            this.lblSystemName.TabIndex = 40;
-            this.lblSystemName.Text = "Computer Name";
             // 
             // lblInstanceName
             // 
@@ -255,12 +228,9 @@
             this.txtUserName.Location = new System.Drawing.Point(198, 63);
             this.txtUserName.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.txtUserName.Name = "txtUserName";
-            // 
-            // 
-            // 
             this.txtUserName.Properties.Appearance.Font = new System.Drawing.Font("Verdana", 9F);
             this.txtUserName.Properties.Appearance.Options.UseFont = true;
-            this.txtUserName.Size = new System.Drawing.Size(238, 24);
+            this.txtUserName.Size = new System.Drawing.Size(238, 20);
             this.txtUserName.StringCasing = Relyon.Controls.RSXTextBox.stringCase.None;
             this.txtUserName.SupressModifiedState = false;
             this.txtUserName.TabIndex = 61;
@@ -284,12 +254,9 @@
             this.txtUserpwd.Location = new System.Drawing.Point(198, 93);
             this.txtUserpwd.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.txtUserpwd.Name = "txtUserpwd";
-            // 
-            // 
-            // 
             this.txtUserpwd.Properties.Appearance.Font = new System.Drawing.Font("Verdana", 9F);
             this.txtUserpwd.Properties.Appearance.Options.UseFont = true;
-            this.txtUserpwd.Size = new System.Drawing.Size(238, 24);
+            this.txtUserpwd.Size = new System.Drawing.Size(238, 20);
             this.txtUserpwd.StringCasing = Relyon.Controls.RSXTextBox.stringCase.None;
             this.txtUserpwd.SupressModifiedState = false;
             this.txtUserpwd.TabIndex = 63;
@@ -314,9 +281,6 @@
             this.cmbServer.InitialString = "";
             this.cmbServer.Location = new System.Drawing.Point(197, 33);
             this.cmbServer.Name = "cmbServer";
-            // 
-            // 
-            // 
             this.cmbServer.Properties.Appearance.Font = new System.Drawing.Font("Verdana", 9F);
             this.cmbServer.Properties.Appearance.Options.UseFont = true;
             this.cmbServer.Properties.AppearanceDropDown.Font = new System.Drawing.Font("Verdana", 9F);
@@ -325,7 +289,7 @@
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
             this.cmbServer.Properties.HighlightedItemStyle = DevExpress.XtraEditors.HighlightStyle.Standard;
             this.cmbServer.Properties.PopupSizeable = true;
-            this.cmbServer.Size = new System.Drawing.Size(240, 24);
+            this.cmbServer.Size = new System.Drawing.Size(240, 20);
             this.cmbServer.StringCasing = Relyon.Controls.RSXComboEdit.stringCase.None;
             this.cmbServer.SupressModifiedState = false;
             this.cmbServer.TabIndex = 60;
@@ -338,9 +302,6 @@
             this.cmbComapny.InitialString = "";
             this.cmbComapny.Location = new System.Drawing.Point(197, 123);
             this.cmbComapny.Name = "cmbComapny";
-            // 
-            // 
-            // 
             this.cmbComapny.Properties.Appearance.Font = new System.Drawing.Font("Verdana", 9F);
             this.cmbComapny.Properties.Appearance.Options.UseFont = true;
             this.cmbComapny.Properties.AppearanceDropDown.Font = new System.Drawing.Font("Verdana", 9F);
@@ -349,7 +310,7 @@
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
             this.cmbComapny.Properties.HighlightedItemStyle = DevExpress.XtraEditors.HighlightStyle.Standard;
             this.cmbComapny.Properties.PopupSizeable = true;
-            this.cmbComapny.Size = new System.Drawing.Size(240, 24);
+            this.cmbComapny.Size = new System.Drawing.Size(240, 20);
             this.cmbComapny.StringCasing = Relyon.Controls.RSXComboEdit.stringCase.None;
             this.cmbComapny.SupressModifiedState = false;
             this.cmbComapny.TabIndex = 64;
@@ -374,12 +335,9 @@
             this.txtProjectName.Location = new System.Drawing.Point(198, 183);
             this.txtProjectName.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.txtProjectName.Name = "txtProjectName";
-            // 
-            // 
-            // 
             this.txtProjectName.Properties.Appearance.Font = new System.Drawing.Font("Verdana", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtProjectName.Properties.Appearance.Options.UseFont = true;
-            this.txtProjectName.Size = new System.Drawing.Size(238, 24);
+            this.txtProjectName.Size = new System.Drawing.Size(238, 20);
             this.txtProjectName.StringCasing = Relyon.Controls.RSXTextBox.stringCase.None;
             this.txtProjectName.SupressModifiedState = false;
             this.txtProjectName.TabIndex = 66;
@@ -423,15 +381,12 @@
             this.txtProjectPath.EditValue = "";
             this.txtProjectPath.Location = new System.Drawing.Point(197, 213);
             this.txtProjectPath.Name = "txtProjectPath";
-            // 
-            // 
-            // 
             this.txtProjectPath.Properties.Appearance.Font = new System.Drawing.Font("Verdana", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtProjectPath.Properties.Appearance.Options.UseFont = true;
             this.txtProjectPath.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton()});
             this.txtProjectPath.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.DisableTextEditor;
-            this.txtProjectPath.Size = new System.Drawing.Size(240, 24);
+            this.txtProjectPath.Size = new System.Drawing.Size(240, 20);
             this.txtProjectPath.TabIndex = 68;
             this.txtProjectPath.EditValueChanged += new System.EventHandler(this.txtProjectPath_EditValueChanged);
             this.txtProjectPath.Click += new System.EventHandler(this.txtProjectPath_Click);
@@ -507,12 +462,9 @@
             this.txtIpAddress.Location = new System.Drawing.Point(198, 243);
             this.txtIpAddress.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.txtIpAddress.Name = "txtIpAddress";
-            // 
-            // 
-            // 
             this.txtIpAddress.Properties.Appearance.Font = new System.Drawing.Font("Verdana", 9F);
             this.txtIpAddress.Properties.Appearance.Options.UseFont = true;
-            this.txtIpAddress.Size = new System.Drawing.Size(238, 24);
+            this.txtIpAddress.Size = new System.Drawing.Size(238, 20);
             this.txtIpAddress.StringCasing = Relyon.Controls.RSXTextBox.stringCase.None;
             this.txtIpAddress.SupressModifiedState = false;
             this.txtIpAddress.TabIndex = 71;
@@ -558,6 +510,22 @@
             this.lblCheckPreRequsistes.Text = "Check Pre Requisites";
             this.lblCheckPreRequsistes.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lblCheckPreRequsistes_LinkClicked);
             // 
+            // radioGroup1
+            // 
+            this.tlpProjectDetails.SetColumnSpan(this.radioGroup1, 3);
+            this.radioGroup1.Location = new System.Drawing.Point(3, 3);
+            this.radioGroup1.Name = "radioGroup1";
+            this.radioGroup1.Properties.Appearance.Font = new System.Drawing.Font("Verdana", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.radioGroup1.Properties.Appearance.Options.UseFont = true;
+            this.radioGroup1.Properties.Columns = 3;
+            this.radioGroup1.Properties.Items.AddRange(new DevExpress.XtraEditors.Controls.RadioGroupItem[] {
+            new DevExpress.XtraEditors.Controls.RadioGroupItem(null, "Automatic"),
+            new DevExpress.XtraEditors.Controls.RadioGroupItem(null, "Manual"),
+            new DevExpress.XtraEditors.Controls.RadioGroupItem(null, "Json Import")});
+            this.radioGroup1.Size = new System.Drawing.Size(434, 24);
+            this.radioGroup1.TabIndex = 73;
+            this.radioGroup1.SelectedIndexChanged += new System.EventHandler(this.radioGroup1_SelectedIndexChanged);
+            // 
             // imageList1
             // 
             this.imageList1.ColorDepth = System.Windows.Forms.ColorDepth.Depth8Bit;
@@ -598,13 +566,17 @@
             this.lblCaption.Appearance.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblCaption.Location = new System.Drawing.Point(3, 82);
             this.lblCaption.Name = "lblCaption";
-            this.lblCaption.Size = new System.Drawing.Size(395, 18);
+            this.lblCaption.Size = new System.Drawing.Size(320, 16);
             this.lblCaption.TabIndex = 5;
             this.lblCaption.Text = "                          Saral IIS Server Configuration";
             // 
+            // openFileDialog1
+            // 
+            this.openFileDialog1.FileName = "openFileDialog1";
+            // 
             // frmIISManager
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 14F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.CancelButton = this.btnClose;
             this.ClientSize = new System.Drawing.Size(451, 429);
@@ -618,6 +590,7 @@
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Saral Server Configuration";
+            this.Load += new System.EventHandler(this.frmIISManager_Load);
             this.Shown += new System.EventHandler(this.Form1_Shown);
             this.tlpProjectDetails.ResumeLayout(false);
             this.tlpProjectDetails.PerformLayout();
@@ -632,6 +605,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.txtIpAddress.Properties)).EndInit();
             this.tlpLinks.ResumeLayout(false);
             this.tlpLinks.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.radioGroup1.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.tableLayoutPanel2.ResumeLayout(false);
             this.tableLayoutPanel2.PerformLayout();
@@ -642,7 +616,6 @@
         #endregion
         private System.Windows.Forms.Button btnCreate_project;
         private System.Windows.Forms.Button btnClose;
-        private System.Windows.Forms.TextBox txtComputerName;
         private Relyon.Controls.RSXTextBox txtUserName;
         private Relyon.Controls.RSXTextBox txtUserpwd;
         private DevExpress.XtraEditors.LabelControl lblProjectName;
@@ -661,7 +634,6 @@
         private DevExpress.XtraEditors.LabelControl lblFileNameReq;
         private DevExpress.XtraEditors.LabelControl lblCloudIdReq;
         private Relyon.Controls.RSXTextBox txtProjectName;
-        private DevExpress.XtraEditors.LabelControl lblSystemName;
         private System.Windows.Forms.FolderBrowserDialog folderBrowserDialog1;
         private DevExpress.XtraEditors.ButtonEdit txtProjectPath;
         private System.Windows.Forms.LinkLabel lblCheckPreRequsistes;
@@ -677,7 +649,8 @@
         private System.Windows.Forms.TableLayoutPanel tlpLinks;
         private System.Windows.Forms.LinkLabel lblCheckUpdates;
         private System.Windows.Forms.ToolTip tooltipPath;
-        private DevExpress.XtraSplashScreen.SplashScreenManager splashScreenManager1;
+        private DevExpress.XtraEditors.RadioGroup radioGroup1;
+        private System.Windows.Forms.OpenFileDialog openFileDialog1;
     }
 }
 
