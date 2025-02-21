@@ -1,0 +1,393 @@
+D:\Windows\del\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.Form1.resources
+D:\Windows\del\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.Properties.Resources.resources
+D:\Windows\del\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.csproj.GenerateResource.Cache
+D:\Windows\del\enable_ManageIIS\enable_ManageIIS\bin\Release\enable_ManageIIS.exe
+D:\Windows\del\enable_ManageIIS\enable_ManageIIS\bin\Release\enable_ManageIIS.pdb
+D:\Windows\del\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.exe
+D:\Windows\del\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.pdb
+D:\Windows\del\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.csprojResolveAssemblyReference.cache
+D:\Windows\del\enable_ManageIIS\enable_ManageIIS\bin\Release\enable_ManageIIS.exe.config
+D:\Windows\del\enable_ManageIIS\enable_ManageIIS\bin\Release\System.Net.Http.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\enable_ManageIIS.exe.config
+D:\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.exe
+D:\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.pdb
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\enable_ManageIIS.exe
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\enable_ManageIIS.pdb
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Data.v16.1.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Utils.v16.1.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraBars.v16.1.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraEditors.v16.1.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraGrid.v16.1.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraLayout.v16.1.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraNavBar.v16.1.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraTreeList.v16.1.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\Microsoft.Web.Administration.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\Newtonsoft.Json.DLL
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\Relyon.Controls.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\Relyon.Utilities.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\System.Net.Http.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Printing.v16.1.Core.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Sparkline.v16.1.Core.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraPrinting.v16.1.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Pdf.v16.1.Core.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.RichEdit.v16.1.Core.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Office.v16.1.Core.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Pdf.v16.1.Drawing.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Data.v16.1.xml
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Utils.v16.1.xml
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraBars.v16.1.xml
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraEditors.v16.1.xml
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraGrid.v16.1.xml
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraLayout.v16.1.xml
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraNavBar.v16.1.xml
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraTreeList.v16.1.xml
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Printing.v16.1.Core.xml
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Sparkline.v16.1.Core.xml
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraPrinting.v16.1.xml
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Pdf.v16.1.Core.xml
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.RichEdit.v16.1.Core.xml
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Office.v16.1.Core.xml
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Pdf.v16.1.Drawing.xml
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.Data.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.Data.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.Data.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.Data.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.Utils.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.Utils.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.Utils.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.Utils.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.XtraBars.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.XtraBars.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.XtraBars.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.XtraBars.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.XtraGrid.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.XtraGrid.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.XtraGrid.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.XtraGrid.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.XtraLayout.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.XtraLayout.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.XtraLayout.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.XtraLayout.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.Printing.v16.1.Core.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.Printing.v16.1.Core.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.Printing.v16.1.Core.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.Printing.v16.1.Core.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.Office.v16.1.Core.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.Office.v16.1.Core.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.Office.v16.1.Core.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.Office.v16.1.Core.resources.dll
+D:\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.csprojResolveAssemblyReference.cache
+D:\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.frmIISManager.resources
+D:\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.Properties.Resources.resources
+D:\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.csproj.GenerateResource.Cache
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\enable_ManageIIS.exe.config
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.exe
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.pdb
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\enable_ManageIIS.exe
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\enable_ManageIIS.pdb
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Data.v16.1.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraEditors.v16.1.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\Microsoft.Web.Administration.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\Newtonsoft.Json.DLL
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\Relyon.Controls.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\Relyon.Utilities.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\System.Net.Http.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Printing.v16.1.Core.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Sparkline.v16.1.Core.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Pdf.v16.1.Core.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Data.v16.1.xml
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraEditors.v16.1.xml
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Printing.v16.1.Core.xml
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Sparkline.v16.1.Core.xml
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Pdf.v16.1.Core.xml
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.Data.v16.1.resources.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.Data.v16.1.resources.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.Data.v16.1.resources.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.Data.v16.1.resources.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.XtraEditors.v16.1.resources.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.XtraEditors.v16.1.resources.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.XtraEditors.v16.1.resources.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.XtraEditors.v16.1.resources.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.Printing.v16.1.Core.resources.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.Printing.v16.1.Core.resources.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.Printing.v16.1.Core.resources.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.Printing.v16.1.Core.resources.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.Pdf.v16.1.Core.resources.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.Pdf.v16.1.Core.resources.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.csprojResolveAssemblyReference.cache
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.frmIISManager.resources
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.Properties.Resources.resources
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.csproj.GenerateResource.Cache
+\\vithin\Shared\Prasad Sir\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.exe.licenses
+D:\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.WaitForm1.resources
+D:\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.exe.licenses
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\enable_ManageIIS.exe.config
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.exe
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.pdb
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\enable_ManageIIS.exe
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\enable_ManageIIS.pdb
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Data.v16.1.dll
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraEditors.v16.1.dll
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\Microsoft.Web.Administration.dll
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\Newtonsoft.Json.DLL
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\Relyon.Controls.dll
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\Relyon.Utilities.dll
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\System.Net.Http.dll
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Sparkline.v16.1.Core.dll
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Data.v16.1.xml
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraEditors.v16.1.xml
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Sparkline.v16.1.Core.xml
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.Data.v16.1.resources.dll
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.Data.v16.1.resources.dll
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.Data.v16.1.resources.dll
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.Data.v16.1.resources.dll
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.csprojResolveAssemblyReference.cache
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.frmIISManager.resources
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.Properties.Resources.resources
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.WaitForm1.resources
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.csproj.GenerateResource.Cache
+D:\Windows\finalProjects\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.exe.licenses
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\enable_ManageIIS.exe.config
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.exe
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.pdb
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\enable_ManageIIS.exe
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\enable_ManageIIS.pdb
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Data.v16.1.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Printing.v16.1.Core.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Utils.v16.1.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraEditors.v16.1.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\Microsoft.Web.Administration.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\Newtonsoft.Json.DLL
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\Relyon.Controls.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\Relyon.Utilities.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\System.Net.Http.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Pdf.v16.1.Core.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Sparkline.v16.1.Core.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraTreeList.v16.1.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraBars.v16.1.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraNavBar.v16.1.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraGrid.v16.1.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraLayout.v16.1.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraPrinting.v16.1.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.RichEdit.v16.1.Core.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Office.v16.1.Core.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Pdf.v16.1.Drawing.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Data.v16.1.xml
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Printing.v16.1.Core.xml
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Utils.v16.1.xml
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraEditors.v16.1.xml
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Pdf.v16.1.Core.xml
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Sparkline.v16.1.Core.xml
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraTreeList.v16.1.xml
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraBars.v16.1.xml
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraNavBar.v16.1.xml
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraGrid.v16.1.xml
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraLayout.v16.1.xml
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraPrinting.v16.1.xml
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.RichEdit.v16.1.Core.xml
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Office.v16.1.Core.xml
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Pdf.v16.1.Drawing.xml
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.Data.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.Data.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.Data.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.Data.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.Printing.v16.1.Core.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.Printing.v16.1.Core.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.Printing.v16.1.Core.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.Printing.v16.1.Core.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.Utils.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.Utils.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.Utils.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.Utils.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.XtraEditors.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.XtraEditors.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.XtraEditors.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.XtraEditors.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.Pdf.v16.1.Core.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.Pdf.v16.1.Core.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.XtraTreeList.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.XtraTreeList.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.XtraBars.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.XtraBars.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.XtraBars.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.XtraBars.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.XtraNavBar.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.XtraNavBar.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.XtraGrid.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.XtraGrid.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.XtraGrid.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.XtraGrid.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.XtraLayout.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.XtraLayout.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.XtraLayout.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.XtraLayout.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.XtraPrinting.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.XtraPrinting.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.Office.v16.1.Core.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.Office.v16.1.Core.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.Office.v16.1.Core.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.Office.v16.1.Core.resources.dll
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.csprojResolveAssemblyReference.cache
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.frmIISManager.resources
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.Properties.Resources.resources
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.WaitForm1.resources
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.csproj.GenerateResource.Cache
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\enable_ManageIIS.exe.config
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.exe
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.pdb
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\enable_ManageIIS.exe
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\enable_ManageIIS.pdb
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Data.v16.1.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraEditors.v16.1.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\Microsoft.Web.Administration.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\Newtonsoft.Json.DLL
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\Relyon.Controls.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\Relyon.Utilities.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\System.Net.Http.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Sparkline.v16.1.Core.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Data.v16.1.xml
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraEditors.v16.1.xml
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Sparkline.v16.1.Core.xml
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.Data.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.Data.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.Data.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.Data.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.frmIISManager.resources
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.Properties.Resources.resources
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.WaitForm1.resources
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.csproj.GenerateResource.Cache
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.csprojResolveAssemblyReference.cache
+\\jyothiprasad\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.frmManageProject.resources
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\obj\Release\enable_ManageIIS.frmManageProject.resources
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Pdf.v16.1.Core.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraTreeList.v16.1.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraBars.v16.1.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraNavBar.v16.1.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraGrid.v16.1.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraLayout.v16.1.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraPrinting.v16.1.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.RichEdit.v16.1.Core.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Office.v16.1.Core.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Pdf.v16.1.Drawing.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Printing.v16.1.Core.xml
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Utils.v16.1.xml
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Pdf.v16.1.Core.xml
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraTreeList.v16.1.xml
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraBars.v16.1.xml
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraNavBar.v16.1.xml
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraGrid.v16.1.xml
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraLayout.v16.1.xml
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.XtraPrinting.v16.1.xml
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.RichEdit.v16.1.Core.xml
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Office.v16.1.Core.xml
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\DevExpress.Pdf.v16.1.Drawing.xml
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.Utils.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.Utils.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.Utils.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.Utils.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.XtraBars.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.XtraBars.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.XtraBars.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.XtraBars.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\de\DevExpress.Office.v16.1.Core.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\es\DevExpress.Office.v16.1.Core.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ja\DevExpress.Office.v16.1.Core.resources.dll
+D:\Shared\Vithin\enable_ManageIIS\enable_ManageIIS\bin\Release\ru\DevExpress.Office.v16.1.Core.resources.dll
